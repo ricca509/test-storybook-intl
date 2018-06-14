@@ -1,0 +1,23 @@
+{
+  "name": "test-storybook-intl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook -p 6006"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@storybook/addon-info": "3.4.7",
+    "@storybook/addons": "3.4.7",
+    "@storybook/react": "3.4.7",
+    "babel-core": "6",
+    "babel-runtime": "6.26.0",
+    "prop-types": "15.6.1",
+    "react": "16.4.1",
+    "react-dom": "16.4.1",
+    "react-intl": "2.4.0",
+    "storybook-addon-intl": "2.3.0"
+  }
+}
